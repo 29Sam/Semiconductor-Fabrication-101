@@ -4,7 +4,7 @@
 
 This course bridges the gap between textbook device physics and real-world semiconductor manufacturing by explaining *how wafers move through hundreds of complex steps* to become functional integrated circuits.
 
----
+
 
 ## What This Course Covers
 
@@ -16,7 +16,7 @@ This course bridges the gap between textbook device physics and real-world semic
 - Scaling, yield improvement, and advanced node manufacturing  
 - Intro to process simulation tools and real fabrication case studies  
 
----
+
 
 ## Learning Outcomes
 
@@ -28,7 +28,7 @@ By the end of this course, you will be able to:
 - Relate fabrication steps to device physics and VLSI design  
 - Appreciate the engineering complexity behind commercial chip manufacturing  
 
----
+
 
 ## Who Is This Course For?
  
@@ -38,7 +38,7 @@ By the end of this course, you will be able to:
 
 No prior experience required — **just curiosity.**
 
----
+
 
 ## Course Material
 
@@ -50,7 +50,7 @@ This repository will include:
 - Reference links & recommended readings  
 - Tasks for evaluation 
 
----
+
 
 ## 📬 Contact
 
