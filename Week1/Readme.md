@@ -4,7 +4,7 @@ Watch the following youtube videos to set the foundation of fabrication.
 
 It will be followed by an assignemnt. 
 
-Note- 20 percent weightage will be given to notes of whole course for evaluation to be considered for Certificate.
+Note- 20 percent weightage will be given to handwritten notes of whole course for evaluation to be considered for Certificate.
 
 [General Terms(Reading Material)](https://www.tel.com/museum/exhibition/principle/)
 
